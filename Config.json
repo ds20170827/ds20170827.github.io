@@ -1,0 +1,1 @@
+{"ConnectServer":{"ip":"203.95.193.12","port":10001},"UpdateServer":"http://s1.diandianyulec.net:8094","Agents":"http://s1.diandianyulec.net:91/Agent/GetAgentByRand","VersionUrl":"http://s1.diandianyulec.net:810/api/v1/","PayUrl":"http://s1.diandianyulec.net:811/paycenter/heepay","SOSUrl":"http://s1.ddqipai.net"}
